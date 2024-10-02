@@ -15,7 +15,7 @@ This is my personal site. Here you can find information about me, my projects, a
 - **Name:** Pauleth Tandazo
 - **Occupation:** Student
 - **Residence:** Guayaquil, Ecuador
-- **Website:** nodefine
+- **Website:** nodefine 🔨
 
 ### Projects
 - **Tic Tac Toe:** https://github.com/MichaelJimenezC/proyecto2.git
@@ -25,5 +25,7 @@ This is my personal site. Here you can find information about me, my projects, a
 - **Snake Game:** https://github.com/paulethTandazo/Snake_Kokoa.git
 
 ### Interests
-
+- **Open Source Contribution:** Actively contributing to open-source projects and communities.
+- **CyberSecurity:** Exploring and developing secure applications with a focus on ethical hacking.
+- **Database management:** Interested in optimizing data storage and retrieval processes.
 
