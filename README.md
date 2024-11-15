@@ -10,6 +10,10 @@ This is my personal site. Here you can find information about me, my projects, a
 - 📚 [Projects](#projects)
 - 💙 [Interests](#interests)
 
+
+### GitHugStatus
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulethaTandazo&theme=white&hide_border=false&include_all_commits=true&count_private=true)
+
 ### Personal Information
 
 - **Name:** Pauleth Tandazo
