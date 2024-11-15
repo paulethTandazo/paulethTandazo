@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile!
-
+![Fondo Principal] (https://i.gifer.com/WiCB.gif)
 ## Portfolio 📁
 
 This is my personal site. Here you can find information about me, my projects, and my interests.
