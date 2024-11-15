@@ -1,4 +1,4 @@
-![Fondo Principal] (WiCB.gif)
+![Fondo Principal] (PAULETHTANDAZO/WiCB.gif)
 ## Portfolio 📁
 
 This is my personal site. Here you can find information about me, my projects, and my interests.
