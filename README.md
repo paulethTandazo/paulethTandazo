@@ -29,8 +29,8 @@ This is my personal site. Here you can find information about me, my projects, a
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
 </div>
-### Personal Information
 
+### Personal Information
 - **Name:** Pauleth Tandazo
 - **Occupation:** Student
 - **Residence:** Guayaquil, Ecuador
