@@ -76,6 +76,16 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+<br/>
+
+<p align="center">
+    <a href="https://github.com/D3press3dd/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pauleth Tandazo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rsgarcia0203&theme=default&hide_border=true&stroke=0000&background=FFFFFF"/>
+    </a>
+</p>
+
+<br/>
+
 
 ## 📊 GitHub Status  
 
