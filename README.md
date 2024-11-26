@@ -4,20 +4,16 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 
 ## 📌 Table of Contents  
 
-- 🧑 **[Personal Information](#Personal-Information)**  
-  Learn about who I am and where I'm from.  
+## 📌 Table of Contents  
 
-- 📚 **[Projects](#Projects)**  
-  Explore the work I’ve done and the ideas I’m bringing to life.  
+| 🔖 Section                | 📝 Description                                                                     |
+|:--------------------------|:----------------------------------------------------------------------------------:|
+| 🧑 **Personal Information** | *Learn about who I am and where I'm from.*                                        |
+| 📚 **Projects**           | *Explore the work I’ve done and the ideas I’m bringing to life.*                  |
+| 💻 **Technologies**       | *Discover the tools and technologies I love working with.*                        |
+| 📊 **GitHub Statistics**  | *Dive into my coding journey through insightful stats.*                           |
+| 💙 **Interests**          | *See what excites me beyond coding and tech.*                                     |
 
-- 💻 **[Technologies](#Technologies)**  
-  Discover the tools and technologies I love working with.  
-
-- 📊 **[GitHub Statistics](#GitHub-Status)**  
-  Dive into my coding journey through insightful stats.  
-
-- 💙 **[Interests](#Areas-of-Expertise-&-Interests)**  
-  See what excites me beyond coding and tech.  
 
 
 ## 📋 Personal Information
