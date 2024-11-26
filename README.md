@@ -42,8 +42,10 @@ This is my personal site. Here you can find information about me, my projects, a
 </div>
 
 ## Personal Information
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
+  
+  <!-- Texto -->
+  <div>
     <h2>Hi, I'm Pauleth! 👩‍💻✨</h2>
     <p>
       I’m passionate about programming 💻 and always eager to prepare for new challenges 🚀.  
@@ -53,11 +55,13 @@ This is my personal site. Here you can find information about me, my projects, a
       My journey in tech is driven by curiosity 🧐 and a constant desire to grow 🌱.  
     </p>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="programador" alt="Pauleth's photo" width="200" style="border-radius: 50%;">
+  
+  <!-- Imagen -->
+  <div style="text-align: center;">
+    <img src="programador.gif" alt="Pauleth's photo" width="200" style="border-radius: 50%;">
   </div>
+  
 </div>
-
 
 ## Projects
 - **Tic Tac Toe:** https://github.com/MichaelJimenezC/proyecto2.git
