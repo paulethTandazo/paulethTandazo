@@ -4,8 +4,6 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 
 ## 📌 Table of Contents  
 
-## 📌 Table of Contents  
-
 | 🔖 Section                | 📝 Description                                                                     |
 |:--------------------------|:----------------------------------------------------------------------------------:|
 | 🧑 **Personal Information** | *Learn about who I am and where I'm from.*                                        |
