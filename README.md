@@ -6,13 +6,13 @@
 <h2 align="center">🌐 Conéctate conmigo 🌐</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulethTandazo/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulethTandazo/" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 15px;"/>
   </a>
-  <a href="https://twitter.com/paulethTandazo" target="_blank">
+  <a href="https://twitter.com/paulethTandazo" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" style="margin: 0 15px;"/>
   </a>
-  <a href="https://github.com/ptandazo" target="_blank">
+  <a href="https://github.com/ptandazo" target="blank">
     <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" style="margin: 0 15px;"/>
   </a>
 </p>
