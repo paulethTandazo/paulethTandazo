@@ -41,7 +41,7 @@ This is my personal site. Here you can find information about me, my projects, a
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
 </div>
 
-## Personal Information
+## 📋 Personal Information
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
   
   <!-- Texto -->
