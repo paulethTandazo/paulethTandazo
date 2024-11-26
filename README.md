@@ -58,7 +58,7 @@ This is my personal site. Here you can find information about me, my projects, a
   
   <!-- Imagen -->
   <div style="text-align: center;">
-    <img src="programador.gif" alt="Pauleth's photo" width="200" style="border-radius: 50%;">
+    <img src="Lindinha_programadora.gif" alt="Pauleth's photo" width="200" style="border-radius: 50%;">
   </div>
   
 </div>
