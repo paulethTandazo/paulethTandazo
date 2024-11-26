@@ -84,5 +84,12 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 
 - 🗄️ **Database Management**  
   Passionate about optimizing data storage and retrieval processes for efficiency and scalability. 📊⚙️  
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulethTandazo&style=flat-square&color=blue" alt="Profile Views"/> 
+</p>
+
+Thank you for stopping by! This counter shows how many amazing people have visited my profile. 😊
 
 
