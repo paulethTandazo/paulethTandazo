@@ -25,22 +25,6 @@ This is my personal site. Here you can find information about me, my projects, a
 - 📚 [Projects](#projects)
 - 💙 [Interests](#interests)
 
-
-## GitHugStatus
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulethTandazo&theme=white&hide_border=false&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulethTandazo&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-## 🛠️ Tecnologías y Herramientas
-<div align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
-</div>
-
 ## 📋 Personal Information
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
   
@@ -63,6 +47,29 @@ This is my personal site. Here you can find information about me, my projects, a
   
 </div>
 
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
+</div>
+
+## 📊 GitHub Status  
+
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=paulethTandazo&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulethTandazo&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
+
+</div>
+
 ## 🌟 Projects
 
 | 🚀 **Project**                            | 🔗 **Link**                                                                                                   | 📄 **Description**                       |
@@ -73,9 +80,15 @@ This is my personal site. Here you can find information about me, my projects, a
 | 🏥 **Hospital Management System**         | [GitHub Repository](https://github.com/paulethTandazo/Bases_Hospital_G3.git)                                  | Database system for hospital management. |
 | 🐍 **Snake Game**                         | [GitHub Repository](https://github.com/paulethTandazo/Snake_Kokoa.git)                                        | A fun remake of the classic Snake game.   |
 
+## 😊 Areas of Expertise & Interests  
 
-## Interests
-- **Open Source Contribution:** Actively contributing to open-source projects and communities.
-- **CyberSecurity:** Exploring and developing secure applications with a focus on ethical hacking.
-- **Database management:** Interested in optimizing data storage and retrieval processes.
+- 🔓 **Open Source Contribution**  
+  Actively contributing to open-source projects and fostering collaboration within developer communities. 💡🌍  
+
+- 🛡️ **Cybersecurity**  
+  Exploring and developing secure applications with a focus on ethical hacking and threat mitigation. 🕵️‍♂️🔐  
+
+- 🗄️ **Database Management**  
+  Passionate about optimizing data storage and retrieval processes for efficiency and scalability. 📊⚙️  
+
 
