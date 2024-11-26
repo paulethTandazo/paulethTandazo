@@ -2,12 +2,23 @@
 
 Explore my journey in tech, discover my projects, and dive into the topics that spark my curiosity. Whether you're here to learn more about me, collaborate, or get inspired, you've come to the right place! 🚀💡
 
+## 📌 Table of Contents  
 
-### Contents
+- 🧑 **[Personal Information](#Personal-Information)**  
+  Learn about who I am and where I'm from.  
 
-- 🧑 [Personal Information](#Personal-Information)
-- 📚 [Projects](#GitHub-Status)
-- 💙 [Interests](#interests)
+- 📚 **[Projects](#Projects)**  
+  Explore the work I’ve done and the ideas I’m bringing to life.  
+
+- 💻 **[Technologies](#Technologies)**  
+  Discover the tools and technologies I love working with.  
+
+- 📊 **[GitHub Statistics](#GitHub-Status)**  
+  Dive into my coding journey through insightful stats.  
+
+- 💙 **[Interests](#Areas-of-Expertise-&-Interests)**  
+  See what excites me beyond coding and tech.  
+
 
 ## 📋 Personal Information
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
@@ -31,7 +42,7 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
   
 </div>
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
