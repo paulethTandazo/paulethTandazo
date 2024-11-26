@@ -19,7 +19,7 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
   
   <!-- Texto -->
   <div>
-    <h2>Hi, I'm Pauleth! 👩‍💻✨</h2>
+    <h2>About me 👩‍💻✨</h2>
     <p>
       I’m passionate about programming 💻 and always eager to prepare for new challenges 🚀.  
       I thrive on learning 📚 and expanding my skills in the ever-evolving tech world 🌐.  
