@@ -46,8 +46,7 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
   
 </div>
 
-## 🛠️ Technologies
-
+## **🚀 Languages and Tools:**  
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -66,6 +65,7 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/graphql.png" style="width:48px; height:48px;"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/39292/jenkins.png" style="width:48px; height:48px;"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png"style="width:48px; height:48px"/> </a>
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -75,7 +75,8 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
-<br/>
+
+<br />
 
 <p align="center">
     <a href="https://github.com/D3press3dd/github-readme-streak-stats">
@@ -84,7 +85,6 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 </p>
 
 <br/>
-
 
 ## 📊 GitHub Status  
 
