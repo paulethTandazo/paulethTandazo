@@ -48,16 +48,34 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 
 ## 🛠️ Technologies
 
-<div align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge">
-</div>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/13460/php.png" style="width:48px; height:48px"/> </a>
+    <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" style="width:48px; height:48px"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/512/typescript.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://dotnet.microsoft.com/es-es/languages/csharp#:~:text=C%23%20es%20un%20lenguaje%20de,lenguajes%20de%20programaci%C3%B3n%20de%20GitHub." target="_blank"> <img src="https://img.icons8.com/color/55251/c-sharp-logo.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/44442/golang.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/13441/python.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://www.java.com/es/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=13679&format=png" style="width:48px; height:48px"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/71257/angularjs.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>  
+    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/graphql.png" style="width:48px; height:48px;"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/39292/jenkins.png" style="width:48px; height:48px;"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png"style="width:48px; height:48px"/> </a>
+</p>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 
 ## 📊 GitHub Status  
 
