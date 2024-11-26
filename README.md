@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Fondo Principal -->
-  <img src="WiCB.gif" alt="Fondo Principal" width="100%" />
+  <img src="WiCB.gif" alt="Fondo Principal" width="100" height="200" />
   
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Page%F0%9F%98%BA;My+name+is+Pauleth+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+programer+world+%F0%9F%92%BB" alt="Typing SVG" />
@@ -20,6 +20,7 @@
       <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" style="margin: 0 15px;"/>
     </a>
   </p>
+  
 ### Contents
 
 - 🧑 [Personal Information](#personal-information)
