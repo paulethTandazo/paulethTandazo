@@ -1,3 +1,13 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pauleth Tandazo</h1> 
+
+<p align="center">
+  <a href="#">
+    <img align="center" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  </a>
+</p>
+
+<h3 align="center">I am passionate about building accessible, user-friendly websites and web applications.</h3>
+
 ## Welcome to My Personal Site! 🌟
 
 Explore my journey in tech, discover my projects, and dive into the topics that spark my curiosity. Whether you're here to learn more about me, collaborate, or get inspired, you've come to the right place! 🚀💡
