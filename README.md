@@ -66,7 +66,6 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/graphql.png" style="width:48px; height:48px;"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/39292/jenkins.png" style="width:48px; height:48px;"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png"style="width:48px; height:48px"/> </a>
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
