@@ -16,6 +16,7 @@
     <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" style="margin: 0 15px;"/>
   </a>
 </p>
+
 ## Portfolio 📁
 
 This is my personal site. Here you can find information about me, my projects, and my interests.
