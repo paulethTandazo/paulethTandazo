@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">I am passionate about building accessible, user-friendly websites and web applications.</h3>
+<p align="center">I am passionate about building accessible, user-friendly websites and web applications.</p>
 
 ## Welcome to My Personal Site! 🌟
 
