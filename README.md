@@ -94,8 +94,8 @@ Explore my journey in tech, discover my projects, and dive into the topics that 
 
 | 🚀 **Project**                            | 🔗 **Link**                                                                                                   | 📄 **Description**                       |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 🎲 **Tic Tac Toe**                        | [GitHub Repository](https://github.com/MichaelJimenezC/proyecto2.git)                                         | A classic game implementation.            |
-| 📱 **Contact App**                        | [GitHub Repository](https://github.com/MichaelJimenezC/estructuras.git)                                       | An app to manage and organize contacts.   |
+| 🎲 **Figma E-commerce**                        | [GitHub Repository](https://www.figma.com/design/6gw7fNlvvri4xRvhre637P/LP?node-id=69-2&p=f&t=HrY10BJWvxsStk36-0)                                         | Figma Prototype            |
+| 📱 **Landing Page**                        | [GitHub Repository]([https://github.com/MichaelJimenezC/estructuras.git](https://paulethtandazo.github.io/LandingPage_proyecto/))                                       | Lading Page -MeowJapan.   |
 | 🎨 **Figma Match Tour**                   | [Figma Design](https://www.figma.com/file/5PEj8l68ZFUGuCGjyx1U1v/MatchTour?type=design&node-id=1354%3A2&mdee) | Interactive UI design for Match Tour.    |
 | 🏥 **Hospital Management System**         | [GitHub Repository](https://github.com/paulethTandazo/Bases_Hospital_G3.git)                                  | Database system for hospital management. |
 | 🐍 **Snake Game**                         | [GitHub Repository](https://github.com/paulethTandazo/Snake_Kokoa.git)                                        | A fun remake of the classic Snake game.   |
